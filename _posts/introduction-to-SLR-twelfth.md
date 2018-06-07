@@ -3,7 +3,6 @@ title: 单反入门 第十二课 直方图(histogram)
 tags:
   - 单反教程
 categories:
-  - 技术渣
   - 爱摄影
 date: 2012-09-15 20:07:23
 ---
