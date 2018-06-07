@@ -13,6 +13,8 @@ date: 2012-09-12 20:07:23
 
 虽然说点测光是一个好用的工具，但并不是每一台 DSLR 中都内建了点测光，有的入门级相机只有中央重点测光的功能，这时，我们可以使用额外的测光表，或是利用长距离镜头来缩小测光的范围。
 
+<!-- more -->
+
 ![](/images/SLR_ninth1.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">用长镜头拉近要测光的范围，再用中央重点测光来弥补没有点测光的遗憾</p>
 
 ![](/images/SLR_ninth2.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">在光源复杂的环境，选择肤色中间调的地方来测光</p>

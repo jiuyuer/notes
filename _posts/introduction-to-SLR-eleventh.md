@@ -17,6 +17,8 @@ date: 2012-09-14 20:07:23
 
 ![](/images/SLR_eleventh1.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">直式构图用来拍摄一个完整的人物体态是最方便的了</p>
 
+<!-- more -->
+
 横式构图就很合适在拍摄水平线上延伸的被摄物，例如在拍摄风景时，横式构图常常被拿来使用。另外或者是我们要拍一群人物，横式构图也相当合适，因为它可以在一个画面中，同时置入最多的被摄体。
 
 ![](/images/SLR_eleventh2.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">横式构图非常适合拿来拍摄风景</p>

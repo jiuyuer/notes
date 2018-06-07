@@ -55,6 +55,8 @@ function foo() {
 }
 ```
 
+<!-- more -->
+
 上述代码理解为下面的形式：
 
 ```javascript
