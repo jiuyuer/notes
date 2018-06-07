@@ -16,7 +16,19 @@ date: 2012-09-15 20:07:23
 
 首先来看一下 histogram 的阅读方式。在画面的水平轴，代表的是画面的明暗部，越靠左边越暗、越往右边则越亮，也就是说，整个画面的明调在右手的方向、暗调在左手的方向，而中间调则是位于中间的部位。一幅比较好的图应该明暗细节都有，在柱状图上就是从左到右都有分布，同时直方图的两侧是不会有像素溢出的。而直方图的竖轴就表示相应部分所占画面的面积，峰值越高说明该明暗值的像素数量越多。
 
+![](/images/SLR_twelfth1.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">如果直方图显示只在左边有，说明画面没有明亮的部分，整体偏暗，有可能曝光不足</p>
+![](/images/SLR_twelfth2.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">而如果直方图显示只在右边有，说明画面缺乏暗部细节，很有可能曝光过度</p>
+![](/images/SLR_twelfth3.jpeg)<p style="line-height: initial; margin-top: -20px;">在 histogram 垂直轴的部分，代表的是该区域像素分布数目的多寡，越低像素越少、越高像素就会越多。从水平轴跟垂直轴的分布，我们就可以大致的看出一张照片它的明暗分布大约是甚么样的状况。</p>
+
+下面来看一下各种不同照片的直方图。
+![](/images/SLR_twelfth4.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">像素集中在明调的区域，明显的曝光过渡了</p>
+![](/images/SLR_twelfth5.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">像素平均的分配在每个区域，曝光良好</p>
+![](/images/SLR_twelfth6.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">像都集中到暗部去了，曝光不足</p>
+
 一般来说，一张曝光良好的照片，它的 histogram 分配应该是明暗部相当平均的，这样整个画面的明暗比例才会适切。但有时如果我们要拍一些亮调子（所谓的 high key）或者是暗调子（所谓的 low key）的照片，反而就需要调整一下明暗分布的比重了。
+
+![](/images/SLR_twelfth7.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">这是暗调子的拍摄手法，用来表现阴郁的感觉</p>
+![](/images/SLR_twelfth8.jpeg)<p align="center" style="line-height: initial; margin-top: -20px;">这是亮调子的拍摄手法，画面看来清爽而明亮</p>
 
 直方图可以用来帮助我们了解曝光的好坏多寡，以及照片的拍摄调性。有许多新手在使用 DSLR 时都会去忽略了这个功能，其实是蛮可惜的一件事情。记得下次在拍照时，多多利用一下 histogram 来观察相片的明暗，这样可以增进我们对曝光抓取的敏感跟准确度喔。
 
