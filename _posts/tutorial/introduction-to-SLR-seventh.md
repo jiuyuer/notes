@@ -25,16 +25,16 @@ F2.8、1/60s、ISO 100 = F5.6、1/60s、ISO 400（因为光圈减少了两格的
 
 一般数码单反相机对噪声及粗粒子的抑制能力，也是作能力评比时的一个重要评分依据。我们来看看在使用低感光度跟高感光度两种情况下，画面的噪声跟粒子的差异有多大：
 
-![](/images/sle/SLR_seventh1.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">原图，使用 ISO 100 来拍摄</p>
+![](/images/slr/SLR_seventh1.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">原图，使用 ISO 100 来拍摄</p>
 
-![](/images/sle/SLR_seventh2.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">使用 ISO 100 拍摄时的局部放大图，粒子比较细腻</p>
+![](/images/slr/SLR_seventh2.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">使用 ISO 100 拍摄时的局部放大图，粒子比较细腻</p>
 
-![](/images/sle/SLR_seventh3.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">使用 ISO 800 时的放大图，颗粒比较大，而噪声也变多了</p>
+![](/images/slr/SLR_seventh3.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">使用 ISO 800 时的放大图，颗粒比较大，而噪声也变多了</p>
 
 从上面的局部放大画面，可以见到提高感光度之后，对画面产生的负面影响。一般如果拍摄者要求画面的细致度及高品质，在拍摄时就尽量不要使用高感光度的设定。这时因为光线不足势必要拉长拍摄时间或是补光，所以闪光灯或是三脚架就成了必备的工具。
 
 如果从另一个角度来看，高感光度所造成的粗粒子有时反而可以拿来好好的运用，变成另外一种特殊的摄影效果。在以前传统摄影的时代，有时为了要拍出粗粒子效果的照片，我们会特意使用高感光度的底片来拍摄，然后在冲片时再利用高温缩短时间的方式，来增加噪声及颗粒。现在只要在拍摄时简单的设定一下感光度，然后在后制时，利用影像软件再作一下处理，就可以获得很棒的效果了。
 
-![](/images/sle/SLR_seventh4.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">利用用高 ISO 的噪声跟粗颗粒，来制造不一样的影像效果</p>
+![](/images/slr/SLR_seventh4.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">利用用高 ISO 的噪声跟粗颗粒，来制造不一样的影像效果</p>
 <br/>
 <br/>

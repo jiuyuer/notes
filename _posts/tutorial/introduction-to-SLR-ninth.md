@@ -15,9 +15,9 @@ date: 2012-09-12 20:07:23
 
 <!-- more -->
 
-![](/images/sle/SLR_ninth1.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">用长镜头拉近要测光的范围，再用中央重点测光来弥补没有点测光的遗憾</p>
+![](/images/slr/SLR_ninth1.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">用长镜头拉近要测光的范围，再用中央重点测光来弥补没有点测光的遗憾</p>
 
-![](/images/sle/SLR_ninth2.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">在光源复杂的环境，选择肤色中间调的地方来测光</p>
+![](/images/slr/SLR_ninth2.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">在光源复杂的环境，选择肤色中间调的地方来测光</p>
 
 如同上面的范例照片，在这个光影复杂的拍摄环境里面，我们要如何作测光呢？完全交给相机处理？那幺拍出来可能就不是原先要的调子；作曝光补偿？那要如何判断甚幺时候加、甚幺时候减呢？
 
@@ -27,7 +27,7 @@ date: 2012-09-12 20:07:23
 
 当我们需要明亮一点的画面时，就使用正向的曝光补偿；而当我们需要低沉的画面感觉时，就使用负向的曝光补偿来完成。
 
-![](/images/sle/SLR_ninth3.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">利用正向的曝光补偿，来营造照片明亮的调子</p>
+![](/images/slr/SLR_ninth3.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">利用正向的曝光补偿，来营造照片明亮的调子</p>
 
 上面的例子是以人像为主，一般来说，要在肤色中找学中间调并不困难，但是当拍摄的主题跟人物无关时，我们要怎幺样来决定画面的中间调呢？在这里我们提供两种方法来让大家参考：
 
@@ -49,7 +49,7 @@ date: 2012-09-12 20:07:23
 
 要用好―点测光‖模式，有一个重要前提，就是摄影者得知道被摄对象中什么位置是适合选为―点‖而且作为测光标准。
 
-![](/images/sle/SLR_ninth4.jpg)
+![](/images/slr/SLR_ninth4.jpg)
 
 点测光设计的主要特点是其窄角度测光范围，能确保测算画面中主要表现对象所需曝光量，能满足特定环境下的测光需要。比如说在主体与背景反差亮度特别大的对象，如舞台摄影中常常有追光灯打在演员身上，而背景几乎一片漆黑，如果不用点测光必定出现主体曝光过度。再如拍摄日出日落场景，也需要摄影者针对天空实际亮度选择某一个标准区域来还原自己希望的亮度，同样要依赖点测光才比较可靠。另外像逆光摄影、空中摄影、拍摄跳伞等场景，采用点测光模式也比较合适。
 

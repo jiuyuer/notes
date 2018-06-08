@@ -29,13 +29,13 @@ date: 2012-09-11 20:07:23
 
 让我们来看看下面的图例：
 
-![](/images/sle/SLR_eighth1.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">我们出国常会拍的雪景，使用相机曝光的原始设定，拍出来的图明显偏暗</p>
+![](/images/slr/SLR_eighth1.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">我们出国常会拍的雪景，使用相机曝光的原始设定，拍出来的图明显偏暗</p>
 
-![](/images/sle/SLR_eighth2.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">使用曝光补偿+1.5EV，雪的白色就显现出来了</p>
+![](/images/slr/SLR_eighth2.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">使用曝光补偿+1.5EV，雪的白色就显现出来了</p>
 
-![](/images/sle/SLR_eighth3.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">这张照片黑色占据了画面的大部分，拍摄出来的感觉明显偏亮了</p>
+![](/images/slr/SLR_eighth3.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">这张照片黑色占据了画面的大部分，拍摄出来的感觉明显偏亮了</p>
 
-![](/images/sle/SLR_eighth4.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">使用曝光補償-0.7EV，畫面的亮度看起來就自然多了。</p>
+![](/images/slr/SLR_eighth4.jpg)<p align="center" style="line-height: initial; margin-top: -20px;">使用曝光補償-0.7EV，畫面的亮度看起來就自然多了。</p>
 
 为了获得更正确的曝光，除了利用曝光补偿来弥补相机程序测光的缺失外，还可以使用点测光的方式来测光。下一课，我们将为大家来介绍基本的点测光，教授如何在一个复杂的光源下，得到正确的曝光组合。
 
@@ -45,9 +45,9 @@ date: 2012-09-11 20:07:23
 
 以下面两幅图片为例，上面的是曝光补偿等于 0 时候所拍的，而后者是等于+1 时所拍的，可见区别明显。
 
-![](/images/sle/SLR_eighth5.jpg)
+![](/images/slr/SLR_eighth5.jpg)
 
-![](/images/sle/SLR_eighth6.jpg)
+![](/images/slr/SLR_eighth6.jpg)
 
 由于相机的快门时间或光圈大小是有限的，因此并非总是能达到 2EV 的调整范围，因此曝光补偿也不是万能的，在过于暗的环境下仍然可能曝光不足，此时要考虑配合闪光灯或增加相机的 ISO 感光灵敏度来提高画面亮度。
 
