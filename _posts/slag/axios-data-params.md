@@ -1,9 +1,9 @@
 ---
 title: Axios发送请求时params和data的区别
 tags:
-  - Javascript
-  - ajax
-  - axios
+  - JavaScript
+  - Ajax
+  - Axios
 categories:
   - 技术渣
 date: 2018-06-14 13:44:27

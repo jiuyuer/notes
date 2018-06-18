@@ -1,8 +1,8 @@
 ---
-title: Javascript 异步上传文件
+title: JavaScript 异步上传文件
 date: 2012-10-12 15:50:39
 tags: 
-- Javascript
+- JavaScript
 categories: 
 - 技术渣
 ---

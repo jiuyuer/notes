@@ -1,7 +1,7 @@
 ---
 title: 求两数组的difference
 tags:
-  - Javascript
+  - JavaScript
 categories:
   - 技术渣
 date: 2018-06-08 16:35:00

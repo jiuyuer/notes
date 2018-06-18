@@ -1,7 +1,7 @@
 ---
 title: Jquery+Bootstrap构建传统后台管理系统
 tags:
-  - Javascript
+  - JavaScript
   - 前端开发
 categories:
   - 技术渣

@@ -1,8 +1,8 @@
 ---
 title: Vue 组件间通信
 tags:
-  - Javascript
-  - Vue2.0
+  - JavaScript
+  - Vue.js
 categories:
   - 技术渣
 date: 2017-11-13 19:57:24

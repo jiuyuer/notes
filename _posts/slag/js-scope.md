@@ -1,7 +1,7 @@
 ---
-title: Javascript 作用域/scope
+title: JavaScript 作用域/scope
 tags:
-  - Javascript
+  - JavaScript
 categories:
   - 技术渣
 date: 2017-09-13 16:00:53

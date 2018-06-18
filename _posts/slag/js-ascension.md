@@ -1,7 +1,7 @@
 ---
-title: Javascript 提升
+title: JavaScript 提升
 tags:
-  - Javascript
+  - JavaScript
 categories:
   - 技术渣
 date: 2017-09-14 17:25:27
