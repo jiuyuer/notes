@@ -3,7 +3,7 @@ title: 使用 vscode 配置 ESLint
 tags:
   - JavaScript
   - vscode
-  - ESLint
+  - Eslint
 categories:
   - 技术渣
 date: 2018-06-25 15:55:21
