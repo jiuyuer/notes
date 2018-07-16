@@ -11,7 +11,7 @@ date: 2018-06-20 10:04:46
 
 在使用 Vuejs 开发 SPA 页面时，我创建了一个父组件以及子组件，然后通过父组件去调用子组件时，报如下错误：
 
-```bush
+```bash
 Vue.js “Maximum call stack size exceeded” error.
 ```
 

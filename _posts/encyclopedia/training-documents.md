@@ -115,13 +115,13 @@ Git 完整命令手册地址：http://git-scm.com/docs
 
 #### API 文档工具
 
-[RAP](http://rapapi.org/org/index.do)
+- [RAP](http://rapapi.org/org/index.do)
 RAP 是一个可视化接口管理工具 通过分析接口结构，动态生成模拟数据，校验真实接口正确性， 围绕接口定义，通过一系列自动化工具提升我们的协作效率。我们的口号：提高效率，回家吃晚饭！
 
-[Swaggger](https://swagger.io)（推荐）
+- [Swaggger](https://swagger.io)（推荐）
 The Best APIs are Built with Swagger Tools
 
-[小幺鸡](http://www.xiaoyaoji.cn)
+- [小幺鸡](http://www.xiaoyaoji.cn)
 小幺鸡，简单好用的在线接口文档管理工具
 
 ### 数据 Mock
@@ -171,20 +171,20 @@ npm run build
 
 强烈建议不要用直接使用 cnpm 安装有各种诡异的 bug，可以通过重新指定 registry 来解决 npm 安装速度慢的问题，如下：
 
-```bush
+```bash
 npm install --registry=https://registry.npm.taobao.org
 ```
 
-### 引入第三方库
+## 引入第三方库
 
-#### [VUX](https://doc.vux.li/zh-CN/)
+### [VUX](https://doc.vux.li/zh-CN/)
 
 VUX（读音 [v’ju:z]，同 views）是基于 WeUI 和 Vue(2.x)开发的移动端 UI 组件库，主要服务于微信页面。
 
 组件地址：https://doc.vux.li/zh-CN/components/actionsheet.html
 DEMO 地址：https://vux.li/demos/v2/
 
-#### [WeUI](https://github.com/Tencent/weui/blob/master/README_cn.md)
+### [WeUI](https://github.com/Tencent/weui/blob/master/README_cn.md)
 
 WeUI 是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信 Web 开发量身设计，可以令用户的使用感知更加统一。包含 button、cell、dialog、 progress、 toast、article、actionsheet、icon 等各式元素。
 

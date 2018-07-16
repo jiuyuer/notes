@@ -63,7 +63,7 @@ PS：这里有一个不明白的地方，我在没有装 vscode 插件 Beautify 
 
 ### 命令式自动修复
 
-```bush
+```bash
 npm run lint -- --fix
 ```
 

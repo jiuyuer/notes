@@ -11,7 +11,7 @@ date: 2018-06-22 10:53:26
 
 最近在移动端 H5 项目开发中，经常在 chrome 的控制台看到如下提示：
 
-```bush
+```bash
 [Intervention] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/features/5093566007214080
 ```
 

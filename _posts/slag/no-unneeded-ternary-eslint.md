@@ -10,7 +10,7 @@ date: 2018-06-23 17:18:59
 
 项目中引入 Eslint 进行团队开发，配置好之后，报错提示如下：
 
-```bush
+```bash
  http://eslint.org/docs/rules/no-unneeded-ternary  Unnecessary use of boolean literals in conditional expression  
 ```
 
