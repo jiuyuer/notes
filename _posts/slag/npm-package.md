@@ -17,6 +17,7 @@ date: 2020-08-17 16:16:13
 
 ![](/images/slag/npm-package1.png)
 
+<!-- more -->
 #### 选择 npm (hosted)
 
 ![](/images/slag/npm-package2.png)
